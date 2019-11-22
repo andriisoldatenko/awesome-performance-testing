@@ -15,3 +15,4 @@ A collection of awesome performance testing resources
 * [artillery.io](https://artillery.io) - distributed load testing tool in NodeJS, supports tests for HTTP, socket.io, WebSockets and AWS Kinesis. Configuration is written in YAML or JSON, and further customization via templating in Node. Also has APIs for functional tests via assert/expect.
 * [tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
 * [hey](https://github.com/rakyll/hey) - hey is a tiny program that sends some load to a web application. It was originally called boom and was influenced from Tarek Ziade's tool at tarekziade/boom. Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. To preserve the name for its original owner, we renamed this project to hey.
+* [stress](https://linux.die.net/man/1/stress) - stress - tool to impose load on and stress test systems.
