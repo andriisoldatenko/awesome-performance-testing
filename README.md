@@ -16,3 +16,5 @@ A collection of awesome performance testing resources
 * [tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
 * [hey](https://github.com/rakyll/hey) - hey is a tiny program that sends some load to a web application. It was originally called boom and was influenced from Tarek Ziade's tool at tarekziade/boom. Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. To preserve the name for its original owner, we renamed this project to hey.
 * [stress](https://linux.die.net/man/1/stress) - stress - tool to impose load on and stress test systems.
+* [fortio](https://github.com/fortio/fortio) - Fortio (Φορτίο) started as, and is, Istio's load testing tool and now graduated to be its own project. Fortio runs at a specified query per second (qps) and records an histogram of execution time and calculates percentiles (e.g. p99 ie the response time such as 99% of the requests take less than that number (in seconds, SI unit)).
+
