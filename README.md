@@ -3,6 +3,7 @@
 A collection of awesome performance testing resources
 
 * [Software performance testing](http://en.wikipedia.org/wiki/Software_performance_testing) - In software engineering, performance testing is in general testing performed to determine how a system performs in terms of responsiveness and stability under a particular workload. It can also serve to investigate, measure, validate or verify other quality attributes of the system, such as scalability, reliability and resource usage.
+* [Screpy](https://screpy.com) - Screpy is a web analysis tool that can analyze all pages of your websites in one dashboard and monitor them with your team. It's powered by Lighthouse and it also includes some different analysis tools (SEO, SERP, W3C, Uptime, etc).
 
 * [Tsung](http://tsung.erlang-projects.org/) - is an open-source multi-protocol distributed load testing tool. It can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
 * [Apache Jmeter](http://jmeter.apache.org/) - is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
